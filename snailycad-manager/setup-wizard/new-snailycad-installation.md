@@ -1,0 +1,2 @@
+# New SnailyCAD Installation
+
