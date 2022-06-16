@@ -7,5 +7,6 @@
     * [New SnailyCAD Installation](snailycad-manager/setup-wizard/new-snailycad-installation.md)
     * [Use Existing SnailyCAD Installation](snailycad-manager/setup-wizard/use-existing-snailycad-installation.md)
 * [Guides](guides/README.md)
+  * [Log Output](guides/log-output.md)
   * [.env File](guides/.env-file.md)
   * [Updating SnailyCAD Manager](guides/updating-snailycad-manager.md)
