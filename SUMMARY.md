@@ -10,3 +10,5 @@
   * [Log Output](guides/log-output.md)
   * [.env File](guides/.env-file.md)
   * [Updating SnailyCAD Manager](guides/updating-snailycad-manager.md)
+* [Changelog](changelog/README.md)
+  * [1.0.3](changelog/1.0.3.md)
