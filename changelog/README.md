@@ -22,3 +22,10 @@ Here, you can find the changelogs of SnailyCAD Manager `Starts from 1.0.3`
 * 🔨FIX: Removed triple notification when stopping the CAD.
 {% endtab %}
 {% endtabs %}
+
+### Previous
+
+* Release 1.0.2
+* Release 1.0.1 - Public Release
+
+{% embed url="https://github.com/WhitigolProd/SnailyCAD-Manager/releases" %}
