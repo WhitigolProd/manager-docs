@@ -6,7 +6,7 @@ Here, you can find the changelogs of SnailyCAD Manager `Starts from 1.0.3`
 
 ### ``[`1.0.3`](1.0.3.md)``
 
-**Planned Released:** 7/11/2022
+**Released:** 7/12/2022
 
 {% tabs %}
 {% tab title="🎉New" %}
